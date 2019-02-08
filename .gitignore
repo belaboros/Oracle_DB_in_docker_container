@@ -1,0 +1,7 @@
+docker-images
+
+OJDBC8-Full
+
+*.tar.gz
+
+*.output
